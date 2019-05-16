@@ -3,6 +3,9 @@
 "image":"https://fastly.4sqi.net/img/general/width960/460877850_7YN06-cgNlmP96WsLxVvit-STd7X0heRFLtMDn8xSFM.jpg",
 "acilis":"08:00",
 "kapanis":"00:00",
-"kartlar":["Sodexo","Multinet","Setcard"],
-"hizmet_tur":["Kahvaltı","Wi-Fi","Açık Büfe","Kahve","Self Servis"]
+"hizmet_tur":["Kahvaltı","Wi-Fi","Açık Büfe","Kahve","Self Servis"],
+ "email": [
+      "Sodexo",
+      "Multinet"
+    ],
 }
