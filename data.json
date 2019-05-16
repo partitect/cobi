@@ -4,8 +4,8 @@
 "acilis":"08:00",
 "kapanis":"00:00",
 "hizmet_tur":["Kahvaltı","Wi-Fi","Açık Büfe","Kahve","Self Servis"],
- "email": [
+ "kartlar": [
       "Sodexo",
       "Multinet"
-    ],
+    ]
 }
