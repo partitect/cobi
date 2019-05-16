@@ -10,7 +10,8 @@
  {"title":"Sodexo","icon":"credit-card"}
 ],
  "menus":[
-  {"title":"Kahve Çeşitleri","image":"https://image.freepik.com/free-photo/color-class-latte-present-barista_1286-277.jpg"}
+  {"title":"Hacıbaba Kumda Türk Kahvesi","image":"https://image.freepik.com/free-photo/morning-with-turkish-coffee-brewing_1157-8838.jpg","price":"7.5"},
+  {"title":"Damla Sakızlı Türk Kahvesi","image":"https://image.freepik.com/free-photo/morning-with-turkish-coffee-brewing_1157-8840.jpg","price":"8.5"}
  ],
  "media":[
   {"title":"Kahveci Hacı Baba","image":"https://i1.wp.com/kahvecihacibaba.com/wp-content/uploads/2018/07/kahveci-hacibaba-cankiri-1-1-1200x800.jpg"}
