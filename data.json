@@ -5,7 +5,7 @@
 "close":"00:00",
 "about":"Şubemizde Pazar günleri açık büfe kahvaltı (brunch) sunulmaktadır.Çocuk oyun odası var.Özel toplantı salonu var.Engelli WC var.Bebek bakım odası var.Mescid var.",
 "hizmet_tur":[
- {"title","Wi-Fi","icon":"wifi"},
+ {"title":"Wi-Fi","icon":"wifi"},
  {"title":"Çocuk Oyun Odası","icon":"basketball"},
  {"title":"Sodexo","icon":"credit-card"}
 ],
