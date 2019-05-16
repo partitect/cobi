@@ -26,7 +26,7 @@
  "telefon":"+90 (0376) 213 63 63",
  "adres":"Buğday Pazarı Mahallesi Atatürk Bulvarı 19/A Merkez/Çankırı",
  "konum":[
-  {"lat":"40.5989279","long":"33.6177758"}
+  {"lat":40.5989279,"long":33.6177758}
  ],
  "promotions":[
   {"title":"Kahvenizin yanında tatlınız bizden","image":"https://image.freepik.com/free-photo/cup-coffee-with-water-bottle-glass-with-cinnamon-sticks-wooden-table_1286-66.jpg?1"}
