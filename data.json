@@ -1,12 +1,33 @@
 {
-"title":"Henry Jones Coffee",
+"title":"Kahveci Hacıbaba",
 "image":"https://fastly.4sqi.net/img/general/width960/535949123_spJ2UbM5fEDVMHZfV1GAljIFWzFE6ryuWj27wTmajuo.jpg",
-"acilis":"08:00",
-"kapanis":"00:00",
-"hizmet_tur":["Kahvaltı","Wi-Fi","Açık Büfe","Kahve","Self Servis"],
- "kartlar": [
-      "Sodexo",
-      "Multinet",
-      "Setcard"
-    ]
+"open":"08:00",
+"close":"00:00",
+"about":"Şubemizde Pazar günleri açık büfe kahvaltı (brunch) sunulmaktadır.Çocuk oyun odası var.Özel toplantı salonu var.Engelli WC var.Bebek bakım odası var.Mescid var.",
+"hizmet_tur":[
+ {"title","Wi-Fi","icon":"wifi"},
+ {"title":"Çocuk Oyun Odası","icon":"basketball"},
+ {"title":"Sodexo","icon":"credit-card"}
+],
+ "menus":[
+  {"title":"Kahve Çeşitleri","image":"https://image.freepik.com/free-photo/color-class-latte-present-barista_1286-277.jpg"}
+ ],
+ "media":[
+  {"title":"Kahveci Hacı Baba","image":"https://i1.wp.com/kahvecihacibaba.com/wp-content/uploads/2018/07/kahveci-hacibaba-cankiri-1-1-1200x800.jpg"}
+ ],
+ "tags":[
+  {"title":"Bistro"},
+  {"title":"Kahvaltı"},
+  {"title":"Kahve"},
+  {"title":"Pasta"},
+  {"title":"Toplantı"}
+ ],
+ "telefon":"+90 (0376) 213 63 63",
+ "adres":"Buğday Pazarı Mahallesi Atatürk Bulvarı 19/A Merkez/Çankırı",
+ "konum":[
+  {"lat":"40.5989279","long":"33.6177758"}
+ ],
+ "promotions":[
+  {"title":"Kahvenizin yanında tatlınız bizden","image":"https://image.freepik.com/free-photo/cup-coffee-with-water-bottle-glass-with-cinnamon-sticks-wooden-table_1286-66.jpg?1"}
+ ]
 }
