@@ -1,4 +1,5 @@
 {
+"id":"1598",
 "title":"Kahveci Hacıbaba",
 "image":"https://3.bp.blogspot.com/-tluZHsjur-s/VbqCSle3AKI/AAAAAAAABQ4/ho9BnH1OdJw/s1600/12.jpg",
 "open":"08:00",
@@ -10,8 +11,8 @@
  {"title":"Sodexo","icon":"credit-card"}
 ],
  "menus":[
-  {"title":"Hacıbaba Kumda Türk Kahvesi","image":"https://image.freepik.com/free-photo/morning-with-turkish-coffee-brewing_1157-8838.jpg","price":"7.5"},
-  {"title":"Damla Sakızlı Türk Kahvesi","image":"https://image.freepik.com/free-photo/morning-with-turkish-coffee-brewing_1157-8840.jpg","price":"8.5"}
+  {"title":"Hacıbaba Kumda Türk Kahvesi","image":"https://image.freepik.com/free-photo/morning-with-turkish-coffee-brewing_1157-8838.jpg","price":"7.50"},
+  {"title":"Damla Sakızlı Türk Kahvesi","image":"https://image.freepik.com/free-photo/morning-with-turkish-coffee-brewing_1157-8840.jpg","price":"8.50"}
  ],
  "media":[
   {"title":"Kahveci Hacı Baba","image":"https://i1.wp.com/kahvecihacibaba.com/wp-content/uploads/2018/07/kahveci-hacibaba-cankiri-1-1-1200x800.jpg"}
@@ -29,7 +30,7 @@
   {"lat":40.5999945,"long":33.6190796}
  ],
  "promotions":[
-  {"title":"Kahvenizin yanında tatlınız bizden","image":"https://image.freepik.com/free-photo/cup-coffee-with-water-bottle-glass-with-cinnamon-sticks-wooden-table_1286-66.jpg?1"},
-		{"title":"Ramazanda Tavuklu Wraplarda 2 ALANA 1 BEDAVA","image":"https://image.freepik.com/free-photo/3-rolled-sandwiches-with-chicken-avocado_1147-336.jpg"}
+  {"title":"Kahvenizin yanında tatlınız bizden","image":"https://image.freepik.com/free-photo/cup-coffee-with-water-bottle-glass-with-cinnamon-sticks-wooden-table_1286-66.jpg?1","price":"17.00"},
+{"title":"Ramazanda Tavuklu Wraplarda 2 ALANA 1 BEDAVA","image":"https://image.freepik.com/free-photo/3-rolled-sandwiches-with-chicken-avocado_1147-336.jpg","price":"22.00"}
  ]
 }
