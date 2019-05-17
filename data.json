@@ -8,7 +8,11 @@
 "hizmet_tur":[
  {"title":"Wi-Fi","icon":"wifi"},
  {"title":"Çocuk Oyun Odası","icon":"basketball"},
- {"title":"Sodexo","icon":"credit-card"}
+ {"title":"Yemek Kartı","icon":"credit-card"},
+ {"title":"Özel Toplantı Salonu","icon":"account-group"},
+ {"title":"Engelli WC","icon":"wheelchair-accessibility"},
+ {"title":"Bebek Bakım Odası","icon":"baby-buggy"},
+ {"title":"Mescid","icon":"alpha-m-box"}
 ],
  "menus":[
   {"title":"Hacıbaba Kumda Türk Kahvesi","image":"https://image.freepik.com/free-photo/morning-with-turkish-coffee-brewing_1157-8838.jpg","price":"7.50"},
