@@ -1,0 +1,19 @@
+{
+"toplam_nufus":"216362",
+"merkez_nufus":"84331",
+"ilceler":[
+{"ilce":"Atkaracalar","nufus":"7213"},
+{"ilce":"Bayramören","nufus":"4258"},
+{"ilce":"Çerkeş","nufus":[
+{"merkez":"8271","koy":"10423","toplam":"18694"}
+],"hakkinda":"Çankırı nın en eski ilçelerinden olan Çerkeş in merkeze uzaklığı 120 kilometre olup kuzeyinde Karabük e bağlı Ovacık, kuzey doğusunda Bayramören doğuda Atkaracalar, güneydoğusunda Orta İlçesi, güneyinde Ankara ya bağlı Kızılcahamam ve batısında da yine Karabük e bağlı Eskipazar ve Bolu iline bağlı Gerede ilçeleri vardır. İlçe Çankırı nın kuzeybatı tarafındadır. Çerkeş 986 km2 lik yüzölçüme sahip olup Çankırı nın merkez ilçeden sonra en geniş ilçesini oluşturmaktadır. 1860 yılında ilçe olan Çerkeş Osmanlıların son dönemine kadar önemli bir yerleşim merkezi olmuştur. Hanlar, hamamlar, okul ve medreseler, köprüler inşa edilmek suretiyle mamur edilen ilçedeki eserlerin çoğu 1902 ve 1944 yıllarında meydana gelen depremlerle yıkılmıştır.İlçe halkı 1992 yılına kadar ağırlıklı olarak tarım ve hayvancılıkla uğraşmakta iken Aytaç Et Entegre Tesislerinin kurulması, yeni fabrikaların açılması ve OSB’nin kurulmasıyla sanayi ve ticaret alanında da ciddi atılımlar göstermektedir. E80 D100 Karayolu üzerinde bulunan Çerkeş, Çankırı ya 105, Ankara ya 128, İstanbul a 365 ve Samsun a 350 km mesafede olup ulaşım yönünden oldukça avantajlı bir konuma sahiptir.","yuzolcumu":"986","rakim":"1151"},
+{"ilce":"Eldivan","nufus":"7588"},
+{"ilce":"Ilgaz","nufus":"14891"},
+{"ilce":"Korgun","nufus":"5666"},
+{"ilce":"Kurşunlu","nufus":"13307"},
+{"ilce":"Orta","nufus":"20439"},
+{"ilce":"Şabanözü","nufus":"14080"},
+{"ilce":"Yapraklı","nufus":"8981"}
+
+]
+}
