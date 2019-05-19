@@ -1,0 +1,35 @@
+{
+      origin_date:"2019-05-19",
+      name:"Gökmen Eczanesi",
+      height:75,
+      bgColor:"#85144b",
+      textColor:"#fff"
+  },
+  {
+    origin_date:"2019-05-20",
+    name:"Otopark Eczanesi",
+    height:75,
+    bgColor:"#111",
+    textColor:"#ff851b"
+},
+{
+  origin_date:"2019-05-21",
+  name:"Otopark Eczanesi",
+  height:75,
+  bgColor:"#ffdc00",
+  textColor:"#85144b"
+},
+{
+  origin_date:"2019-05-22",
+  name:"Otopark Eczanesi",
+  height:75,
+  bgColor:"#fff",
+  textColor:"#85144b"
+},
+{
+  origin_date:"2019-05-23",
+  name:"Otopark Eczanesi",
+  height:75,
+  bgColor:"#fff",
+  textColor:"#85144b"
+}
