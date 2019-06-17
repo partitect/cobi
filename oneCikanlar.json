@@ -1,36 +1,40 @@
 {
-      title: 'Kahveci Hacıbaba',
-      subtitle: 'Kahve Sizden Tatlı Bizden',
-      illustration: 'https://image.freepik.com/free-photo/eastern-sweets-with-dates-fruit-coffee_23-2148080100.jpg',
-      price:'17,00'
-  },
-  {
-      title: 'Yılmaz Teknik Mobilya',
-      subtitle: 'İndirimli Fiyatına 5 Taksit, Sınırlı Stok',
-      illustration: 'https://image.freepik.com/free-photo/3d-render-room-interior-with-blank-picture-frame_1048-6509.jpg',
-      price:'275'
-  },
-  {
-      title: 'Çakır Yün Kozmetik',
-      subtitle: 'Mukemmel kampanya ikisi bir arada, Far ve Allık',
-      illustration: 'https://image.freepik.com/free-photo/elevated-view-cosmetic-products-brushes-black-background_23-2147899396.jpg',
-      price:'99'
-  },
-  {
-      title: 'Sezen Tuz Lamba',
-      subtitle: 'Ekonomik sağlık paketi 95 TL yerine SADECE 75 TL',
-      illustration: 'https://image.freepik.com/free-photo/two-green-leaves-sea-salt-wooden-bowl_1252-798.jpg',
-      price:'75'
-  },
-  {
-      title: 'Park Döner',
-      subtitle: '7. Yılımıza Özel Büyük Kampanya, Döner + Ayran 4 Lira',
-      illustration: 'https://image.freepik.com/free-photo/delicious-rolled-sandwiches-with-chicken-avocado_1147-338.jpg',
-      price:'4'
-  },
-  {
-      title: 'Başkent Halı Mobilya',
-      subtitle: 'Tüm mobilya ürün gruplarımızda indirimli kampanya fiyatina siz değerli müşterilerimize 20 ay vade imkanı ',
-      illustration: 'https://image.freepik.com/free-photo/3d-contemporary-bedroom-interior_1048-10250.jpg',
-      price:''
-  }
+    "oneCikanlar":[
+        {
+            "title":"Kahveci Hacıbaba",
+            "subtitle":"Kahve Sizden Tatlı Bizden",
+            "illustration":"https://image.freepik.com/free-photo/eastern-sweets-with-dates-fruit-coffee_23-2148080100.jpg",
+            "price":"17,00"
+        },
+        {
+            "title":"Yılmaz Teknik Mobilya",
+            "subtitle":"İndirimli Fiyatına 5 Taksit, Sınırlı Stok",
+            "illustration":"https://image.freepik.com/free-photo/3d-render-room-interior-with-blank-picture-frame_1048-6509.jpg",
+            "price":"275"
+        },
+        {
+            "title":"Çakır Yün Kozmetik",
+            "subtitle":"Mukemmel kampanya ikisi bir arada, Far ve Allık",
+            "illustration":"https://image.freepik.com/free-photo/elevated-view-cosmetic-products-brushes-black-background_23-2147899396.jpg",
+            "price":"99"
+        },
+        {
+            "title":"Sezen Tuz Lamba",
+            "subtitle":"Ekonomik sağlık paketi 95 TL yerine SADECE 75 TL",
+            "illustration":"https://image.freepik.com/free-photo/two-green-leaves-sea-salt-wooden-bowl_1252-798.jpg",
+            "price":"75"
+        },
+        {
+            "title":"Park Döner",
+            "subtitle":"7. Yılımıza Özel Büyük Kampanya, Döner + Ayran 4 Lira",
+            "illustration":"https://image.freepik.com/free-photo/delicious-rolled-sandwiches-with-chicken-avocado_1147-338.jpg",
+            "price":"4"
+        },
+        {
+            "title":"Başkent Halı Mobilya",
+            "subtitle":"Tüm mobilya ürün gruplarımızda indirimli kampanya fiyatina siz değerli müşterilerimize 20 ay vade imkanı ",
+            "illustration":"https://image.freepik.com/free-photo/3d-contemporary-bedroom-interior_1048-10250.jpg",
+            "price":""
+        }
+    ]
+}
