@@ -1,0 +1,74 @@
+{
+    "sonuclar":[
+        {
+            "id":"0",
+            "title":"Acar Market",
+            "adi":"Bolu Patates",
+            "image":"https://image.freepik.com/free-photo/raw-organic-potatoes_1426-301.jpg",
+            "price":"2,99"
+        },
+        {
+            "id":"1",
+            "title":"Henry Jones Coffee",
+            "adi":"Frozen",
+            "image":"https://image.freepik.com/free-photo/pink-cocktails-towel_23-2147761597.jpg",
+            "price":"8,99"
+        },
+        {
+            "id":"2",
+            "title":"Altuğ Dondurma",
+            "adi":"Dondurma",
+            "image":"https://image.freepik.com/free-photo/mixed-frozen-ice-cream-scoop-cones-with-waffle-straw_23-2148150266.jpg",
+            "price":"3,00"
+        },
+        {
+            "id":"2",
+            "title":"Koç Market Aksu",
+            "adi":"Salkım Domates",
+            "image":"https://image.freepik.com/free-photo/red-tomatoes-with-green-stems_1220-12.jpg",
+            "price":"2,95"
+        },
+        {
+            "id":"2",
+            "title":"Koç Market Aksu",
+            "adi":"Yeşil Biber",
+            "image":"https://image.freepik.com/free-photo/red-orange-green-chili-peppers-banana-pepper-paprika-garden-pepper-chili-plant-red-pepper-spanish-pepper-sweet-pepper_1391-244.jpg",
+            "price":"4,75"
+        },
+        {
+            "id":"2",
+            "title":"Baloğlu Pastanesi",
+            "adi":"Baklava",
+            "image":"https://image.freepik.com/free-photo/turkish-dessert-baklava-with-pistachio-earthen-bowl-wooden-desk_23-2148066588.jpg",
+            "price":"56,00"
+        },
+        {
+            "id":"2",
+            "title":"Canoğlu Pastanesi",
+            "adi":"Çikolata",
+            "image":"https://image.freepik.com/free-photo/chocolate-bar-pieces-glass-beige-backdrop_23-2147890194.jpg",
+            "price":"18,75"
+        },
+        {
+            "id":"2",
+            "title":"Lavinia Waffle",
+            "adi":"Annabelle Waffle",
+            "image":"https://image.freepik.com/free-photo/waffle_95678-13.jpg",
+            "price":"19,00"
+        },
+        {
+            "id":"2",
+            "title":"Çankırı Anahtar",
+            "adi":"Çilingir Hizmeti",
+            "image":"https://image.freepik.com/free-photo/vintage-keys_23-2147782964.jpg",
+            "price":"30,00"
+        },
+        {
+            "id":"2",
+            "title":"Suzan Çiçekçilik",
+            "adi":"Gül Demeti",
+            "image":"https://image.freepik.com/free-photo/rose-flowers-with-ribbon-table_23-2148067812.jpg",
+            "price":"24,00"
+        }
+    ]
+}
