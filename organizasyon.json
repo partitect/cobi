@@ -5,39 +5,39 @@
       "name": "Departmanlar",
       "children": [
         {
-          "id": "1",
+          "id": "2",
           "name": "Belediye Başkanı Mehmet Sarı",
           "children": [
             {
-              "id": "1",
+              "id": "3",
               "name": "Belediye Meclisi"
             },
             {
-              "id": "2",
+              "id": "4",
               "name": "Belediye Encümeni"
             },
             {
-              "id": "3",
+              "id": "5",
               "name": "Yazı İşleri Müdürlüğü"
             },
             {
-              "id": "4",
+              "id": "6",
               "name": "Mali Hizmetler Müdürülüğü"
             },
             {
-              "id": "5",
+              "id": "7",
               "name": "Strateji Geliştirme Müdürlüğü"
             },
             {
-              "id": "6",
+              "id": "8",
               "name": "Basın Yayın ve Halkla İlişkiler Müdürlüğü"
             },
             {
-              "id": "2",
+              "id": "9",
               "name": "Fen İşleri Müdürülüğü",
               "children": [
                 {
-                  "id": "1",
+                  "id": "10",
                   "name": "Tamirhane Şefliği"
                 }
               ]
