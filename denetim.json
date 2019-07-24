@@ -1,0 +1,34 @@
+{
+  "denetim": [
+    {
+      "id": 1,
+      "ad": "Yaşar ELBİR",
+      "gorev": "",
+      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/yasar-elbir.jpg"
+    },
+    {
+      "id": 2,
+      "ad": "Mehmet BOZKURT",
+      "gorev": "",
+      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/mehmet-bozkurt.jpg"
+    },
+    {
+      "id": 3,
+      "ad": "Gönül CEBECİ",
+      "gorev": "",
+      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/gonul-cebeci.jpg"
+    },
+	{
+      "id": 4,
+      "ad": "Hakan AKÇAY",
+      "gorev": "",
+      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/hakan-akcay.jpg"
+    },
+	{
+      "id": 5,
+      "ad": "İsmail ÇEKDEMİR",
+      "gorev": "",
+      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/ismail-cekdemir.jpg"
+    }
+  ]
+}
