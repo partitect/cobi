@@ -1,24 +1,46 @@
 {
   "data": [
     {
-      "id": "Grandparent",
-      "name": "Grandpa",
-      "age": 78,
+      "id": "1",
+      "name": "Departmanlar",
       "children": [
         {
-          "id": "Me",
-          "name": "Me",
-          "age": 30,
+          "id": "1",
+          "name": "Belediye Başkanı Mehmet Sarı",
           "children": [
             {
-              "id": "Erick",
-              "name": "Erick",
-              "age": 10
+              "id": "1",
+              "name": "Belediye Meclisi"
             },
             {
-              "id": "Rose",
-              "name": "Rose",
-              "age": 12
+              "id": "2",
+              "name": "Belediye Encümeni"
+            },
+            {
+              "id": "3",
+              "name": "Yazı İşleri Müdürlüğü"
+            },
+            {
+              "id": "4",
+              "name": "Mali Hizmetler Müdürülüğü"
+            },
+            {
+              "id": "5",
+              "name": "Strateji Geliştirme Müdürlüğü"
+            },
+            {
+              "id": "6",
+              "name": "Basın Yayın ve Halkla İlişkiler Müdürlüğü"
+            },
+            {
+              "id": "2",
+              "name": "Fen İşleri Müdürülüğü",
+              "children": [
+                {
+                  "id": "1",
+                  "name": "Tamirhane Şefliği"
+                }
+              ]
             }
           ]
         }
