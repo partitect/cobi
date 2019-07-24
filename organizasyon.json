@@ -127,6 +127,24 @@
                       "name":"Evlendirme Mumurluğu"
                     }
                   ]
+                },
+                {
+                  "id": 31,
+                  "name": "Belediye Başkan Yardımcısı İsmail KAZAN",
+                  "children":[
+                    {
+                      "id":32,
+                      "name":"İmar ve Şehircilik Müdürlüğü"
+                    },
+                    {
+                      "id":33,
+                      "name":"Ruhsat ve Demetim Müdürlüğü"
+                    },
+                    {
+                      "id":34,
+                      "name":"Temizlik İşleri Müdürlüğü"
+                    }
+                  ]
                 }
               ]
             }
