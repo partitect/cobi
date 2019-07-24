@@ -1,0 +1,34 @@
+{
+  "imar": [
+    {
+      "id": 1,
+      "ad": "Mehmet BOZKURT",
+      "gorev": "",
+      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/mehmet-bozkurt.jpg"
+    },
+    {
+      "id": 2,
+      "ad": "M.Onur KAVAKLIOĞLU",
+      "gorev": "",
+      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/mustafa-onur-kavaklioglu.jpg"
+    },
+    {
+      "id": 3,
+      "ad": "Cemal Umut KILIÇ",
+      "gorev": "",
+      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/cemal-umut-kilic.jpg"
+    },
+	{
+      "id": 4,
+      "ad": "Ali ÇETİN",
+      "gorev": "",
+      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/ali-cetin.jpg"
+    },
+	{
+      "id": 5,
+      "ad": "Osman ŞİŞMAN",
+      "gorev": "",
+      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/osman-sisman.jpg"
+    }
+  ]
+}
