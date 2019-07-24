@@ -39,6 +39,94 @@
                 {
                   "id": 10,
                   "name": "Tamirhane Şefliği"
+                },
+                {
+                  "id": 11,
+                  "name": "Park ve Bahçe Şefliği"
+                },
+                {
+                  "id": 12,
+                  "name": "Su Kanalizasyon Şefliği"
+                }
+              ]
+            },
+            {
+              "id": 13,
+              "name": "Teftiş Kurulu Müdürlüğü",
+              "children": [
+                {
+                  "id": 14,
+                  "name": "İç Denetçiler Şefliği"
+                },
+                {
+                  "id": 15,
+                  "name": "Hukuk İşleri Müdürlüğü"
+                }
+              ]
+            },
+            {
+              "id": 16,
+              "name": "Belediye Başkan Yardımcıları",
+              "children": [
+                {
+                  "id": 17,
+                  "name": "Belediye Başkan Yardımcısı Hasan ŞAHİN",
+                  "children":[
+                    {
+                      "id":18,
+                      "name":"İnsan Kaynakları ve Eğitim Müdürülüğü"
+                    },
+                    {
+                      "id":19,
+                      "name":"Strateji Geliştirme Müdürlüğü"
+                    },
+                    {
+                      "id":20,
+                      "name":"Kültür ve Sosyal İşler Müdürülüğü"
+                    }
+                  ]
+                },
+                {
+                  "id": 21,
+                  "name": "Başkan Yardımcısı Ahmet ÇOBAN",
+                  "children":[
+                    {
+                      "id":22,
+                      "name":"Zabıta Müdürlüğü"
+                    },
+                    {
+                      "id":23,
+                      "name":"İtfaiye Müdürlüğü"
+                    },
+                    {
+                      "id":24,
+                      "name":"Veteriner İşleri Müdürlüğü"
+                    },
+                    {
+                      "id":25,
+                      "name":"Hal Müdürlüğü"
+                    },
+                    {
+                      "id":26,
+                      "name":"Bilgi İşlem Müdürlüğü"
+                    },
+                    {
+                      "id":27,
+                      "name":"Muhtarlık Müdürlüğü"
+                    },
+                    {
+                      "id":28,
+                      "name":"Destek Hizmetleri Müdürlüğü"
+                    },
+                    {
+                      "id":29,
+                      "name":"Sosyal Yardım Hizmetleri Müdürlüğü"
+                    },
+                    {
+                      "id":30,
+                      "name":"Evlendirme Mumurluğu"
+                    }
+                  ]
                 }
               ]
             }
