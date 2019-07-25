@@ -1,0 +1,14 @@
+{
+	"eczaneler": [
+		{
+			"id": "1",
+			"origin_date": "2019-07-25",
+			"name": "Peker Eczanesi"
+		},
+		{
+			"id": "2",
+			"origin_date": "2019-07-25",
+			"name": "Demet Eczanesi"
+		}
+	]
+}
