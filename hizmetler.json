@@ -8,30 +8,36 @@
 		},
 		{
 			"id": 2,
+			"ad": "Taziye İlanları",
+			"desc": "",
+			"resim": "https://image.freepik.com/free-photo/silhouette-woman-reading-quran_23-2147794134.jpg"
+		},
+		{
+			"id": 3,
 			"ad": "İmar Sorgulama",
 			"desc": "",
 			"resim": "https://image.freepik.com/free-photo/architect-using-ruler-blueprint_23-2147710952.jpg"
 		},
 		{
-			"id": 3,
+			"id": 4,
 			"ad": "Kent Rehberi",
 			"desc": "",
 			"resim": "https://staticb.yolcu360.com/blog/wp-content/uploads/2018/02/28203243/Amasya-foto%C4%9Fraflar%C4%B1.jpg"
 		},
 		{
-			"id": 4,
+			"id": 5,
 			"ad": "Evlendirme İşlemleri",
 			"desc": "",
 			"resim": "https://image.freepik.com/free-photo/groom-putting-ring-bride-s-finger_1157-338.jpg"
 		},
 		{
-			"id": 5,
+			"id": 6,
 			"ad": "Bilgi Edinme",
 			"desc": "",
 			"resim": "https://image.freepik.com/free-photo/hands-with-laptop-virtual-world-map_1232-876.jpg"
 		},
 		{
-			"id": 5,
+			"id": 7,
 			"ad": "Yapı Ruhsatı Alınması",
 			"desc": "",
 			"resim": "https://image.freepik.com/free-photo/real-estate-agent-with-house-model-keys_1150-12963.jpg"
