@@ -1,40 +1,40 @@
 {
-	"hizmetler":[
+	"hizmetler": [
 		{
-			"id":1,
-			"ad":"Hoş Geldin Bebek",
-			"desc":"",
-			"image":"https://image.freepik.com/free-photo/small-newborn-floral-basket_23-2147760127.jpg"
+			"id": 1,
+			"ad": "Hoş Geldin Bebek",
+			"desc": "",
+			"resim": "https://image.freepik.com/free-photo/small-newborn-floral-basket_23-2147760127.jpg"
 		},
-				{
-			"id":2,
-			"ad":"İmar Sorgulama",
-			"desc":"",
-			"image":"https://image.freepik.com/free-photo/architect-using-ruler-blueprint_23-2147710952.jpg"
+		{
+			"id": 2,
+			"ad": "İmar Sorgulama",
+			"desc": "",
+			"resim": "https://image.freepik.com/free-photo/architect-using-ruler-blueprint_23-2147710952.jpg"
 		},
-						{
-			"id":3,
-			"ad":"Kent Rehberi",
-			"desc":"",
-			"image":"https://staticb.yolcu360.com/blog/wp-content/uploads/2018/02/28203243/Amasya-foto%C4%9Fraflar%C4%B1.jpg"
+		{
+			"id": 3,
+			"ad": "Kent Rehberi",
+			"desc": "",
+			"resim": "https://staticb.yolcu360.com/blog/wp-content/uploads/2018/02/28203243/Amasya-foto%C4%9Fraflar%C4%B1.jpg"
 		},
-								{
-			"id":4,
-			"ad":"Evlendirme İşlemleri",
-			"desc":"",
-			"image":"https://image.freepik.com/free-photo/groom-putting-ring-bride-s-finger_1157-338.jpg"
+		{
+			"id": 4,
+			"ad": "Evlendirme İşlemleri",
+			"desc": "",
+			"resim": "https://image.freepik.com/free-photo/groom-putting-ring-bride-s-finger_1157-338.jpg"
 		},
-										{
-			"id":5,
-			"ad":"Bilgi Edinme",
-			"desc":"",
-			"image":"https://image.freepik.com/free-photo/hands-with-laptop-virtual-world-map_1232-876.jpg"
+		{
+			"id": 5,
+			"ad": "Bilgi Edinme",
+			"desc": "",
+			"resim": "https://image.freepik.com/free-photo/hands-with-laptop-virtual-world-map_1232-876.jpg"
 		},
-												{
-			"id":5,
-			"ad":"Yapı Ruhsatı Alınması",
-			"desc":"",
-			"image":"https://image.freepik.com/free-photo/real-estate-agent-with-house-model-keys_1150-12963.jpg"
+		{
+			"id": 5,
+			"ad": "Yapı Ruhsatı Alınması",
+			"desc": "",
+			"resim": "https://image.freepik.com/free-photo/real-estate-agent-with-house-model-keys_1150-12963.jpg"
 		}
 	]
 }
