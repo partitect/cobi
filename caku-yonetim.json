@@ -1,41 +1,40 @@
 {
-  "yonetim": [
-    {
-      "id": 1,
-      "ad": "Hasan AYRANCU",
-      "gorev": "Rektör",
-      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/1.jpg"
-    },
-    {
-      "id": 2,
-      "ad": "Murat ARI",
-      "gorev": "Rektör Yardımcısı",
-      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/ahmet-coban.jpg"
-    },
-    {
-      "id": 3,
-      "ad": "Muhammed Nuri ÖNER",
-      "gorev": "Rektör Yardımcısı",
-      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/ibrahim-hakki-ozsen.jpg"
-    },
-    {
-      "id": 4,
-      "ad": "Ahmet ÖZCAN",
-      "gorev": "",
-      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/Untitled-1.jpg"
-    },
-    {
-      "id": 5,
-      "ad": "Ali SARICA",
-      "gorev": "Genel Sekreter",
-      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/bayram-celik.jpg"
-    },
-    {
-      "id": 6,
-      "ad": "Sadık YILMAZ",
-      "gorev": "Genel Sekreter Yardımcısı",
-      "resim": "http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/ozcan-gur.jpg"
-    },
-    
-  ]
+   "yonetim":[
+      {
+         "id":1,
+         "ad":"Hasan AYRANCI",
+         "gorev":"Rektör",
+         "resim":"http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/1.jpg"
+      },
+      {
+         "id":2,
+         "ad":"Murat ARI",
+         "gorev":"Rektör Yardımcısı",
+         "resim":"http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/ahmet-coban.jpg"
+      },
+      {
+         "id":3,
+         "ad":"Muhammed Nuri ÖNER",
+         "gorev":"Rektör Yardımcısı",
+         "resim":"http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/ibrahim-hakki-ozsen.jpg"
+      },
+      {
+         "id":4,
+         "ad":"Ahmet ÖZCAN",
+         "gorev":"",
+         "resim":"http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/Untitled-1.jpg"
+      },
+      {
+         "id":5,
+         "ad":"Ali SARICA",
+         "gorev":"Genel Sekreter",
+         "resim":"http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/bayram-celik.jpg"
+      },
+      {
+         "id":6,
+         "ad":"Sadık YILMAZ",
+         "gorev":"Genel Sekreter Yardımcısı",
+         "resim":"http://amasya.bel.tr/Files/mehmet-sari/meclis-uyeleri/ozcan-gur.jpg"
+      }
+   ]
 }
