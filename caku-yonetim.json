@@ -2,25 +2,25 @@
    "data":[
       {
          "id":1,
-         "ad":"Hasan AYRANCI",
+         "ad":"Prof. Dr. Hasan AYRANCI",
          "gorev":"Rektör",
          "resim":"https://krtknadmn.karatekin.edu.tr/files/karatekin/1/makam.jpg"
       },
       {
          "id":2,
-         "ad":"Murat ARI",
+         "ad":"Prof. Dr. Murat ARI",
          "gorev":"Rektör Yardımcısı",
          "resim":"https://krtknadmn.karatekin.edu.tr/files/karatekin/2020/rektor-yardimci/murat-ari.jpeg"
       },
       {
          "id":3,
-         "ad":"Muhammed Nuri ÖNER",
+         "ad":"Prof. Dr. Muhammed Nuri ÖNER",
          "gorev":"Rektör Yardımcısı",
          "resim":"http://of.karatekin.edu.tr/fotograf/5.jpg"
       },
       {
          "id":4,
-         "ad":"Ahmet ÖZCAN",
+         "ad":"Prof. Dr. Ahmet ÖZCAN",
          "gorev":"Rektör Yardımcısı",
          "resim":"https://websitem.karatekin.edu.tr/user_files/ahmetozcan/profil_pic/99201805857261.jpg"
       },
