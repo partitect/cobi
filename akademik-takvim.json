@@ -1,1 +1,19 @@
-https://github.com/partitect/cobi/blob/master/nobetci_eczane.json
+{
+  "takvim": [
+    {
+      "id": "1",
+      "origin_date": "2020-03-23",
+      "name": "Uzaktan Eğitim Yöntemi ile Teorik Derslerin Başlangıcı"
+    },
+        {
+      "id": "2",
+      "origin_date": "2020-05-29",
+      "name": "Derslerin Bitişi"
+    },
+     {
+      "id": "3",
+      "origin_date": "2020-06-02",
+      "name": "Uzaktan Eğitim ile Verilemeyen Dersler İçin Yoğunlaştırılmış Eğitim"
+    }
+  ]
+}
