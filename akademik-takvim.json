@@ -13,7 +13,31 @@
      {
       "id": "3",
       "origin_date": "2020-06-02",
-      "name": "Uzaktan Eğitim ile Verilemeyen Dersler İçin Yoğunlaştırılmış Eğitim"
+      "name": "Uzaktan Eğitim ile Verilemeyen Dersler İçin Yoğunlaştırılmış Eğitim Başlangıcı"
+    },
+         {
+      "id": "4",
+      "origin_date": "2020-06-21",
+      "name": "Uzaktan Eğitim ile Verilemeyen Dersler İçin Yoğunlaştırılmış Eğitim Bitişi"
+    },
+         {
+      "id": "5",
+      "origin_date": "2020-06-22",
+      "name": "Yarıyıl Sonu Sınavları Başlangıcı (Bütün dersler için)"
+    },
+     {
+      "id": "6",
+      "origin_date": "2020-06-22",
+      "name": "Yarıyıl Sonu Sınavları Not Girişleri Başlangıcı (Bütün dersler için)"
+    },
+    {
+      "id": "7",
+      "origin_date": "2020-07-02",
+      "name": "Yarıyıl Sonu Sınavları Bitişi (Bütün dersler için)"
+    }, {
+      "id": "8",
+      "origin_date": "2020-07-07",
+      "name": "Yarıyıl Sonu Sınavları Not Girişleri Bitişi (Bütün dersler için)"
     }
   ]
 }
