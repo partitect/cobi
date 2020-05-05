@@ -3,41 +3,74 @@
     {
       "id": "1",
       "origin_date": "2020-05-01",
-      "name": "Uzaktan Eğitim Yöntemi ile Teorik Derslerin Başlangıcı"
+      "name": "Genel Ekonomi",
+      "derskod":"Eko101",
+      "sorumlu":"Hüseyin Şahiner",
+      "saat":"12:15",
+      "derslik":"M-109"
     },
-        {
+    {
       "id": "2",
-      "origin_date": "2020-05-02",
-      "name": "Derslerin Bitişi"
+      "origin_date": "2020-05-01",
+      "name": "Genel Ekonomi 2",
+      "derskod":"Eko102",
+      "sorumlu":"Hüseyin Şahiner",
+      "saat":"13:40",
+      "derslik":"M-101"
     },
      {
       "id": "3",
-      "origin_date": "2020-05-03",
-      "name": "Uzaktan Eğitim ile Verilemeyen Dersler İçin Yoğunlaştırılmış Eğitim Başlangıcı"
+      "origin_date": "2020-05-02",
+      "name": "Peyzaj Tarihi",
+      "derskod":"Pey101",
+      "sorumlu":"Nazan Kuter",
+      "saat":"10:30",
+      "derslik":"M-100"
     },
-         {
+    {
       "id": "4",
-      "origin_date": "2020-05-04",
-      "name": "Uzaktan Eğitim ile Verilemeyen Dersler İçin Yoğunlaştırılmış Eğitim Bitişi"
+      "origin_date": "2020-05-03",
+      "name": "Genel Ekonomi",
+      "derskod":"Eko101",
+      "sorumlu":"Hüseyin Şahiner",
+      "saat":"12:15",
+      "derslik":"M-109"
     },
-         {
+    {
       "id": "5",
-      "origin_date": "2020-05-05",
-      "name": "Yarıyıl Sonu Sınavları Başlangıcı (Bütün dersler için)"
+      "origin_date": "2020-05-04",
+      "name": "Genel Ekonomi",
+      "derskod":"Eko101",
+      "sorumlu":"Hüseyin Şahiner",
+      "saat":"12:15",
+      "derslik":"M-109"
     },
-     {
+    {
       "id": "6",
-      "origin_date": "2020-05-06",
-      "name": "Yarıyıl Sonu Sınavları Not Girişleri Başlangıcı (Bütün dersler için)"
+      "origin_date": "2020-05-05",
+      "name": "Genel Ekonomi",
+      "derskod":"Eko101",
+      "sorumlu":"Hüseyin Şahiner",
+      "saat":"14:15",
+      "derslik":"M-109"
     },
     {
       "id": "7",
-      "origin_date": "2020-05-07",
-      "name": "Yarıyıl Sonu Sınavları Bitişi (Bütün dersler için)"
-    }, {
+      "origin_date": "2020-05-05",
+      "name": "Genel Ekonomi",
+      "derskod":"Eko101",
+      "sorumlu":"Hüseyin Şahiner",
+      "saat":"16:15",
+      "derslik":"M-109"
+    },
+    {
       "id": "8",
-      "origin_date": "2020-05-08",
-      "name": "Yarıyıl Sonu Sınavları Not Girişleri Bitişi (Bütün dersler için)"
-    }
+      "origin_date": "2020-05-05",
+      "name": "Genel Ekonomi",
+      "derskod":"Eko101",
+      "sorumlu":"Hüseyin Şahiner",
+      "saat":"12:15",
+      "derslik":"M-109"
+    },
   ]
 }
